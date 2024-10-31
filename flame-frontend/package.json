@@ -1,0 +1,7 @@
+{
+  "name": "flame-frontend",
+  "version": "0.1.0-SNAPSHOT",
+  "repository": "https://github.com/araucaris/flame",
+  "license": "Apache-2.0",
+  "type": "module"
+}

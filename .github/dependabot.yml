@@ -1,0 +1,10 @@
+version: 2
+updates:
+  - package-ecosystem: "gradle"
+    directory: "/flame-backend"
+    schedule:
+      interval: "daily"
+  - package-ecosystem: "npm"
+    directory: "/flame-frontend"
+    schedule:
+      interval: "daily"
